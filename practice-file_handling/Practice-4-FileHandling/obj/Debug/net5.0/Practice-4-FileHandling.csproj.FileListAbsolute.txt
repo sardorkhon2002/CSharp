@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.AssemblyInfo.cs
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\Practice-4-FileHandling.exe
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\Practice-4-FileHandling.deps.json
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\Practice-4-FileHandling.runtimeconfig.json
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\Practice-4-FileHandling.runtimeconfig.dev.json
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\Practice-4-FileHandling.dll
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\ref\Practice-4-FileHandling.dll
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\bin\Debug\net5.0\Practice-4-FileHandling.pdb
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.dll
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\ref\Practice-4-FileHandling.dll
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.pdb
+C:\Users\User\source\repos\Practice-4-FileHandling\Practice-4-FileHandling\obj\Debug\net5.0\Practice-4-FileHandling.genruntimeconfig.cache

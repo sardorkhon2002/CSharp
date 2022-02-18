@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\Practice-5-Inheritance.exe
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\Practice-5-Inheritance.deps.json
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\Practice-5-Inheritance.runtimeconfig.json
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\Practice-5-Inheritance.runtimeconfig.dev.json
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\Practice-5-Inheritance.dll
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\ref\Practice-5-Inheritance.dll
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\bin\Debug\net5.0\Practice-5-Inheritance.pdb
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.AssemblyInfo.cs
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.dll
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\ref\Practice-5-Inheritance.dll
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.pdb
+C:\Users\User\source\repos\Practice-5-Inheritance\Practice-5-Inheritance\obj\Debug\net5.0\Practice-5-Inheritance.genruntimeconfig.cache

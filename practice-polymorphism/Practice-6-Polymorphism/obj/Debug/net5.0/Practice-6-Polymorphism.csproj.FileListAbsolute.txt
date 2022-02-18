@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.AssemblyInfo.cs
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\Practice-6-Polymorphism.exe
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\Practice-6-Polymorphism.deps.json
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\Practice-6-Polymorphism.runtimeconfig.json
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\Practice-6-Polymorphism.runtimeconfig.dev.json
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\Practice-6-Polymorphism.dll
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\ref\Practice-6-Polymorphism.dll
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\bin\Debug\net5.0\Practice-6-Polymorphism.pdb
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.dll
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\ref\Practice-6-Polymorphism.dll
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.pdb
+C:\Users\User\source\repos\Practice-6-Polymorphism\Practice-6-Polymorphism\obj\Debug\net5.0\Practice-6-Polymorphism.genruntimeconfig.cache
